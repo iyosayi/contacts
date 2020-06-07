@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://King:jesusisreal@cluster0-boxsp.mongodb.net/contactkeeper?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://King:jesusisreal@cluster0-boxsp.mongodb.net/contactkeeper?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
 }

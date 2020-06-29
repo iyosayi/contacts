@@ -1,5 +1,5 @@
 # Contact Keeper
-## A simple application built with React for storing and retriving contacts.
+## A simple application built with React for learning purposes.
 
 ### To Install,
  Run ```npm install```
